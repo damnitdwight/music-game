@@ -1,0 +1,87 @@
+body {
+  text-align: center;
+  background-color: #baeeef;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #000000;
+  font-family: "Times New Roman", Times, serif;
+  text-shadow: 3px 0 #ffffff;
+
+}
+
+footer {
+  color: #000000;
+  font-family: sans-serif;
+}
+
+._1  {
+  background-image: url("images/amazonprime.png");
+}
+
+._2 {
+  background-image: url("images/apple.jpg");
+}
+
+._3 {
+  background-image: url("images/hbo_logo.jpeg");
+}
+
+._4 {
+  background-image: url("images/LG.jpg");
+} 
+
+._5 {
+  background-image: url("images/mcd.jpeg");
+}
+
+._6 {
+  background-image: url("images/Netflix-Symbol.png");
+}
+
+._7 {
+  background-image: url("images/windows.jpg");
+}
+
+.drum.no-number {
+  font-size: 0;
+  color: transparent;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #ffffff;
+  font-size: 5rem;
+  font-family: 'Concert One', sans-serif;
+  line-height: 2;
+  font-weight: 0;
+  color: #ecd7d7;
+  text-shadow: 3px 0 #838c8f;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: rgb(173, 161, 202);
+  background-size: cover;
+}
